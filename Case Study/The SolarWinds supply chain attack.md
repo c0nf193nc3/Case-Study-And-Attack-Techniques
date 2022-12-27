@@ -1,12 +1,8 @@
 # The SolarWinds supply chain attack
 
-The SolarWinds supply chain attack was a cyber espionage campaign that targeted several government agencies and private companies in the United States and other countries. The attack was carried out by an advanced persistent threat (APT) group believed to be associated with the Russian government.
+The SolarWinds supply chain attack was a cyber espionage campaign that targeted several government agencies and private companies in the United States and other countries. The attack was carried out by an advanced persistent threat (APT) group believed to be associated with the Russian government. The attack began in 2019, but it was not discovered until December 2020, when the US Cybersecurity and Infrastructure Security Agency (CISA) issued an alert about the compromise of SolarWinds' software update system. SolarWinds is a US-based company that provides IT management software, including network monitoring and management tools.
 
-The attack began in 2019, but it was not discovered until December 2020, when the US Cybersecurity and Infrastructure Security Agency (CISA) issued an alert about the compromise of SolarWinds' software update system. SolarWinds is a US-based company that provides IT management software, including network monitoring and management tools.
-
-The attackers were able to compromise the software update system and insert a malicious code into a software update that was distributed to SolarWinds' customers. When the customers installed the update, the malicious code was also installed on their systems, giving the attackers access to their networks.
-
-The attackers used this access to gain further access to the systems of SolarWinds' customers and then used this access to infiltrate the networks of government agencies and private companies. The attack was sophisticated and well-planned, and the attackers were able to operate undetected for a long period of time.
+The attackers were able to compromise the software update system and insert a malicious code into a software update that was distributed to SolarWinds' customers. When the customers installed the update, the malicious code was also installed on their systems, giving the attackers access to their networks. The attackers used this access to gain further access to the systems of SolarWinds' customers and then used this access to infiltrate the networks of government agencies and private companies. The attack was sophisticated and well-planned, and the attackers were able to operate undetected for a long period of time.
 
 The attack was eventually discovered when some of the affected organizations noticed unusual activity on their networks and reported it to the authorities. The investigation into the attack is ongoing, and the full extent of the damage caused by the attack is not yet known. However, it is clear that the attack was a major breach of cybersecurity and a significant threat to national security.
 
