@@ -151,3 +151,11 @@ https://www.youtube.com/watch?v=XVQvIisuO1o
 
 * Deep dive into the Solorigate second-stage activation: From SUNBURST to TEARDROP and Raindrop - 
   **https://www.microsoft.com/en-us/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/
+  
+* What You Need to Know About the SolarWinds Supply-Chain Attack - https://www.sans.org/blog/what-you-need-to-know-about-the-solarwinds-supply-chain-attack/
+
+* The Anatomy of the SolarWinds Attack Chain - https://www.cyberark.com/resources/blog/the-anatomy-of-the-solarwinds-attack-chain
+
+* Analysis of the SolarWinds Supply Chain Attack - https://www.guidepointsecurity.com/blog/analysis-of-the-solarwinds-supply-chain-attack/
+
+* The SolarWinds Cyber-Attack: What You Need to Know - https://www.cisecurity.org/solarwinds
