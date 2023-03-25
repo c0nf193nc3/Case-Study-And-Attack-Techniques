@@ -127,7 +127,7 @@ In malware-based phishing attacks, hackers hide malware in files and links that 
 
 
 
-## Credit Card Fraud Scams and Prevention -
+## Credit Card Fraud Scams and Prevention - [Credit Card Scams](https://www.aura.com/learn/credit-card-scams)
 
     1. Identity fraud scams
     2. Skimming scams
